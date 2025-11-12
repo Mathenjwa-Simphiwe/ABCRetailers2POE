@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj": {}
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj": {
+    "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj",
         "projectName": "ABCRetailers2",
-        "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers\\ABCRetailers2\\ABCRetailers2\\ABCRetailers2.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers2\\ABCRetailers2\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\ABCRetailers\\ABCRetailers2\\ABCRetailers2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
